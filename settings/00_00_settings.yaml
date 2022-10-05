@@ -81,7 +81,7 @@ titlepage:
 
 # include table of contents (can also be set using --toc/--table-of-contents)
 # default: true
-toc: ture
+toc: true
 
 # if you want to have a onecolumn table of content even if your document is
 # in twocolumn,then set this option to true.
